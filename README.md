@@ -2,9 +2,9 @@
 <h3 align="center">An aspiring Software/Cloud Engineer</h3>
 
 
-- 🔭 I’m currently working on my **neuroevolution bachelor's thesis**
+- 🔭 I’m currently working on getting more **Azure Applied Skills**
 
-- 🌱 I’m currently learning **cloud technologies and artificial intelligence**
+- 🌱 I’m currently learning **cloud technologies with Azure and Kubernetes**
 
 - ⚡ In my free time I like to **swim and learn Japanese**
 
