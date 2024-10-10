@@ -1,12 +1,12 @@
 <h1 align="center">Hello 👋, I'm Pascal Süß</h1>
-<h3 align="center">An aspiring Software/Cloud Engineer</h3>
+<h3 align="center"Software Engineer</h3>
 
-
+<!--
 - 🔭 I’m currently working on getting more **Azure Applied Skills**
 
 - 🌱 I’m currently learning **cloud technologies with Azure and Kubernetes**
-
-- ⚡ In my free time I like to **swim and learn Japanese**
+-->
+ ⚡ In my free time I like to **swim and learn Japanese**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
